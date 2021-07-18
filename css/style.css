@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body{
+    padding: auto 0;
+    white-space: nowrap;
+}
+h1{
+    color: #564738;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background: #F8F8FF;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 10%;
+}
+h1 a{
+    margin: 0px;
+    text-decoration: none;
+}
+header ul li{
+    list-style-type: none;
+}
+header ul li a{
+    text-decoration: none;
+}
+footer{
+    background: #F8F8FF;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 23%;
+}
+footer ul li{
+    list-style-type: none;
+    color: #989873;
+}
+footer ul li a{
+    text-decoration: none;
+}
